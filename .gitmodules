@@ -1,0 +1,5 @@
+[submodule "Airguard-Final-Ruq"]
+    path = Airguard-Final-Ruq
+    url = https://github.com/Ruquiya/Airguard-Final-Ruq.git
+    branch = main
+
